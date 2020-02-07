@@ -1,0 +1,2 @@
+git checkout api-key-auth
+git merge --no-ff -m 'Merged in full-coverage (pull request #1)' remotes/origin/full-coverage
